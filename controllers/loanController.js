@@ -11,6 +11,7 @@ export const createLoanApplication = async (req, res) => {
     }
 };
 
+
 // View all loan applications
 export const viewAllLoanApplications = async (req, res) => {
     try {
